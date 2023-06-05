@@ -1,0 +1,4 @@
+﻿  JsonAnalysis.cpp
+C:\Users\DELL\Desktop\json_analysis\json_analysis\JsonAnalysis.cpp(21,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DELL\Desktop\json_analysis\json_analysis\JsonAnalysis.cpp(113,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  json_analysis.vcxproj -> C:\Users\DELL\Desktop\json_analysis\x64\Debug\json_analysis.exe
